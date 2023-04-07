@@ -1,2 +1,2 @@
-# onlycore-java-backend
-Backend для сайта onlycore.ru
+# shortee-java-backend
+Backend для сайта shortee.ru
