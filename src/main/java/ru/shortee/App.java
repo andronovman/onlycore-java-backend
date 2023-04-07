@@ -1,13 +1,13 @@
-package ru.andronovman.onlycore;
+package ru.shortee;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class OnlycoreApplication {
+public class App {
 
 	public static void main(String[] args) {
-		SpringApplication.run(OnlycoreApplication.class, args);
+		SpringApplication.run(App.class, args);
 	}
 
 }
